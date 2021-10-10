@@ -1,5 +1,5 @@
 <img src="header.svg" width = 100%>
-<h3>A junior pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about Web development and UI/UX design</h3>
+<h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about Web development and UI/UX design</h3>
 <br>
 <h3>Currently learning Data Structures and Algorithms 👨🏻‍💻<h3>
 <h1>
