@@ -1,7 +1,6 @@
 <img src="header.svg" width = 100%>
-<h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about Web development and UI/UX design</h3>
+<h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about Deep Learning and Computer Vision</h3>
 <br>
-<h3>Currently learning Data Structures and Algorithms 👨🏻‍💻<h3>
 <h1>
 <a href="https://github.com/AFIEIF/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=afieif&show_icons=true&include_all_commits=true&theme=material-palenight" alt="github stats" width = 400/>
